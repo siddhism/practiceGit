@@ -4,9 +4,10 @@ three
 four
 five
 six
-seven
+seven feature
 eight
 nine
 ten
-fixed merge conflict feature
 eleven
+twelve 
+fixed conflict kept my version c12
